@@ -1,0 +1,15 @@
+//
+//  cockpit.pch
+//  cockpit
+//
+//  Created by dzc on 2021/5/11.
+//
+
+#ifndef cockpit_pch
+#define cockpit_pch
+
+#import "file.h"
+#import "CPMacroHeader.h"
+
+
+#endif /* cockpit_pch */
